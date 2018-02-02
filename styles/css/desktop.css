@@ -169,7 +169,7 @@
 
     .container div {
       float: left;
-      margin: 1% 1% 0% 1%;
+      margin: 0% 0% 0% 0%;
       width: 48%;
       overflow: hidden;
     }
